@@ -11,12 +11,25 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
     font-style: normal;
+
     text-transform: lowercase;
+
+    text-transform: uppercase;
+    text-align: center;
+
     
 }
 /*j'ai changer la police et sa couleur*/
 p {
+
     font-family: 'Times New Roman', Times, serif;
     color:rgb(2, 48, 12);
+
+    font-family: arial;
+    color:rgb(77, 6, 243);
+
     font-size: 16px;
+}
+ul {
+    font-weight: normal;   
 }
