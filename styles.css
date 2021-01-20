@@ -1,8 +1,9 @@
+/* j'ai échanger les couleurs de polices et background*/
 body {
-    background-color: black;
-    color:blanchedalmond;
+    background-color: rgb(255, 254, 254);
+    color:rgb(8, 8, 8);
 }
-
+/* j'ai remis les titres en minuscules*/
 h1 {
     color: rgb(255, 11, 174);
     background-color: sienna;
@@ -10,12 +11,12 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
     font-style: normal;
-    text-transform: uppercase;
+    text-transform: lowercase;
     
 }
-  /* J'ai changé le color*/
+/*j'ai changer la police et sa couleur*/
 p {
-    font-family: fantasy;
-    color:rgb(77, 6, 243)
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(2, 48, 12);
     font-size: 16px;
 }
